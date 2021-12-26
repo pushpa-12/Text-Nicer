@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Text-Nicer/static/css/main.8d241485.css",
+    "main.js": "/Text-Nicer/static/js/main.52041d5a.js",
+    "static/js/787.539ce8f5.chunk.js": "/Text-Nicer/static/js/787.539ce8f5.chunk.js",
+    "index.html": "/Text-Nicer/index.html",
+    "main.8d241485.css.map": "/Text-Nicer/static/css/main.8d241485.css.map",
+    "main.52041d5a.js.map": "/Text-Nicer/static/js/main.52041d5a.js.map",
+    "787.539ce8f5.chunk.js.map": "/Text-Nicer/static/js/787.539ce8f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d241485.css",
+    "static/js/main.52041d5a.js"
+  ]
+}
